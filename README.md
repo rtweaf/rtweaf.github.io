@@ -1,2 +1,1 @@
-# rtweaf.github.io
-redirect at github.com/rtweaf, why not
+# [rtweaf.github.io](https://rtweaf.github.io)
