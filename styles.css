@@ -1,25 +1,10 @@
-/* 
-    ! PR NOTES 
-    ! REMOVE ME LATER!
-
-    From my point of view, the font on the website is far too small which makes it less accessible and readable. You should increase it to at least 16px and preferably 20px!
-
-    body {
-        [...];
-        font-size: 20px; 
-        [...];
-    }
-
-    Really do it! Have a great day, with a bigger font of course :P
-*/
-
 body {
     color: white;
     background-color: black;
 
     margin: 15%;
     
-    font-size: 13px; 
+    font-size: 16px; 
     font-family: 'Ubuntu Mono', monospace;
 }
 
