@@ -1,27 +1,27 @@
 body {
-    background-color: black;
-    margin: 15%;
-}
-
-header, main, footer {
     color: white;
+    background-color: black;
+
+    margin: 15%;
+    
+    font-size: 13px;
     font-family: monospace;
 }
 
 section { border-bottom: 0.1em dashed white; }
-
-h1 { font-size: 2em; }
-
-h2 {
-    font-size: 1.5em;
-    color: peru;
-}
 
 ul { list-style: none; }
 
 li::before {
     content: '*';
     padding-right: 0.5em;
+}
+
+h1 { font-size: 2em; }
+
+h2 {
+    color: peru;
+    font-size: 1.5em;
 }
 
 a { color: peru; }
