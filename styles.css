@@ -8,20 +8,20 @@ header, main, footer {
     font-family: monospace;
 }
 
-section { border-bottom: 0.1em dashed white }
+section { border-bottom: 0.1em dashed white; }
 
-h1 { font-size: 2em }
+h1 { font-size: 2em; }
 
 h2 {
     font-size: 1.5em;
     color: peru;
 }
 
-ul { list-style: none }
+ul { list-style: none; }
 
 li::before {
     content: '*';
     padding-right: 0.5em;
 }
 
-a { color: peru }
+a { color: peru; }
