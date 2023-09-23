@@ -1,9 +1,13 @@
 ## About me
-Just random **he/him**, beginner programmer. I learning Python (currently Django), and a bit of C/C++ (MCU).
-My 2ry hobby are cooking and growing flowers (unprofessionally). I also like cats and other animals.
+He/him from Poland. Likes cats (especially my 3 british ones). Interested in programming and biology (abstraction between actual consciousness and the physiological functioning of the brain).
+Aspires to be neuroinformatician.
+In my free time, I watch TV series, clean things around me (OCD moment :<) and worry about our existence.
+When it comes to series, I recommend:
+* [The Good Doctor](https://www.netflix.com/pl/title/80176893)
+* [Open Your Eyes](https://www.netflix.com/pl/title/81135995)
 
 ## How to catch me?
-If you really need, dm on Discord at rtweaf#5000.
+rtweaf at discord.
 
 {% for post in site.posts %}
   [{{ post.title }}]({{ post.url }}) |
