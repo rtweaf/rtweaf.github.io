@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+show_downloads: [true]
+github:
+  another_url: https://discord.com/channels/@me/1072809349887565935
