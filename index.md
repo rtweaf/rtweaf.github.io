@@ -8,7 +8,7 @@ When it comes to series, I recommend:
 
 ## How to catch me?
 <dl>
-  <dt>discord<dt>
+  <dt>Discord</dt>
   <dd>rtweaf</dd>
 </dl>
 
