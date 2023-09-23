@@ -7,7 +7,10 @@ When it comes to series, I recommend:
 * [Open Your Eyes](https://www.netflix.com/pl/title/81135995)
 
 ## How to catch me?
-rtweaf at discord.
+<dl>
+  <dt>discord<dt>
+  <dd>rtweaf</dd>
+</dl>
 
 {% for post in site.posts %}
   [{{ post.title }}]({{ post.url }}) |
