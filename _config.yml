@@ -2,4 +2,8 @@ title: Rtweaf's website
 author:
   name: Mikołaj Koźlaczyński
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 theme: minima
