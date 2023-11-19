@@ -1,8 +1,8 @@
 ---
 layout: home
+title: About me
 ---
 
-### test
 **He/him** interested in biology (especially neuropsychology), but I'm still learning the basics.
 I love cats (especially my 3 british ones).
 
@@ -14,7 +14,7 @@ Resources
 * [Theotown](https://hi.theotown.com)
 * [Fedora Cinnamon](https://fedoraproject.org/spins/cinnamon)
 
-### How to catch me?
+## How to catch me?
 rtweaf @ [discord](https://discord.com)
 
 {% for post in site.posts %}
