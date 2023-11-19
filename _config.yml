@@ -8,10 +8,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-header_pages:
-  - about.md
+#header_pages:
+#  - about.md
 
-show_excerpts: true
+#show_excerpts: true
 
 minima:
   skin: classic
