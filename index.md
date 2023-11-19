@@ -1,6 +1,5 @@
 ---
 layout: home
-title: About me
 ---
 
 **He/him** interested in biology (especially neuropsychology), but I'm still learning the basics.
