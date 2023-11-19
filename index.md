@@ -2,7 +2,7 @@
 layout: home
 ---
 
-### About me
+### test
 **He/him** interested in biology (especially neuropsychology), but I'm still learning the basics.
 I love cats (especially my 3 british ones).
 
