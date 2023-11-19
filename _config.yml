@@ -2,7 +2,7 @@ title: Rtweaf's website
 author:
   name: Mikołaj Wziumerski
 
-theme: jekyll/minima
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
