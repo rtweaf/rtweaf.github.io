@@ -3,17 +3,17 @@ layout: home
 ---
 
 ###### pronouns
-**he**/him
+👦 he/him
 
 ###### passion
-**biology** (neuroscience) /n00b/
+🧠 biology (neuroscience)
 
 ###### pets
-3 british **cats**
+🐈 3x british cats
 
 ###### languages
-🇵🇱 **pl** native
-🇬🇧 uk **en**
+* 🇵🇱 **pl** (native)
+* 🇬🇧 **en** (B1)
 
 ###### links
 * [The Good Doctor](https://viaplay.pl/series/good-doctor-the) <3
