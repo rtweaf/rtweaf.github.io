@@ -24,3 +24,6 @@ I use Linux btw.
 ###### games
 * [Theotown](https://hi.theotown.com)
 * [Ordia](https://loju.co.uk/ordia.html)
+
+###### playlists
+* [Fav songs](https://www.youtube.com/playlist?list=PLfySUHJged47bhlZA74GV8W0mpIePs2tu)
