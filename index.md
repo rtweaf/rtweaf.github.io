@@ -11,13 +11,16 @@ In the future I want to have Vanilla and Ficus retusa.
 I use Linux btw.
 
 ##### links
+
 ###### resources
 * [Fizjologia Nettera do kolorowania](https://edraurban.pl/ksiazka/fizjologia-nettera-do-kolorowania)
 * [Atlas anatomiczny](https://www.nowaera.pl/atlas-anatomiczny-tajemnice-ciala-miekka-oprawa,sku-007068)
 * [Zygotebody](https://zygotebody.com)
+
 ###### tv series
 * [The Good Doctor](https://viaplay.pl/series/good-doctor-the)
 * [Open Your Eyes](https://www.netflix.com/pl/title/81135995)
+
 ###### games
 * [Theotown](https://hi.theotown.com)
 * [Ordia](https://loju.co.uk/ordia.html)
