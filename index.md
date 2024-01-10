@@ -12,6 +12,9 @@ I use Linux btw.
 
 ##### links
 
+###### my notes (in polish)
+* [knowunity](https://knowunity.pl/knowers/ten-obcy-f53a36f2-7c98-4c9e-8ccc-3c435c354d47/profile)
+
 ###### resources
 * [Fizjologia Nettera do kolorowania](https://edraurban.pl/ksiazka/fizjologia-nettera-do-kolorowania)
 * [Atlas anatomiczny](https://www.nowaera.pl/atlas-anatomiczny-tajemnice-ciala-miekka-oprawa,sku-007068)
