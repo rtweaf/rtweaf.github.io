@@ -1,0 +1,58 @@
+<!-- this is probably the worst code you've ever seen -->
+<div class="current" id="step1" hidden>
+  <span class="dot"></span>
+  <div class="parallelogram"></div>
+  <div class="triangle-down"></div>
+</div>
+
+<p class="current" id="step2" hidden>przycisk</p>
+
+<div class="current" id="step3" hidden>
+  <div class="parallelogram"></div>
+  <span class="dot"></span>
+  <div class="triangle-down"></div>
+</div>
+
+<script>
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+async function asdf() {
+document.getElementById("step1").hidden = false;
+await sleep(900);
+document.getElementById("step1").hidden = true;
+document.getElementById("step2").hidden = false;
+await sleep(30);
+document.getElementById("step2").hidden = true;
+document.getElementById("step3").hidden = false;
+}
+asdf();
+</script>
+<style>
+.current {
+  position: fixed;
+  bottom: 50;
+  right: 50;
+}
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #000;
+  border-radius: 50%;
+  display: inline-block;
+}
+.parallelogram {
+	width: 100px;
+	height: 50px;
+	transform: skew(20deg);
+	background: #000;
+  display: inline-block;
+}
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid #000;
+  display: inline-block;
+}
+<style>
